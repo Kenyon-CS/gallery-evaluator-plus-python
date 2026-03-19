@@ -2,8 +2,6 @@
 
 A Python 3 version of the **Gallery Evaluator Plus** starter project for experimenting with gallery-layout evaluation and simple layout-generation algorithms.
 
-This version mirrors the C++ project structure and behavior, but uses Python dataclasses and standard-library modules only.
-
 ## Features
 
 - Loads 20 paintings from YAML-like data
